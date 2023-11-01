@@ -1,0 +1,8 @@
+prefix=/home/aman/catkin_ws/src/turtlesim_control/build/devel
+
+Name: turtlesim_control
+Description: Description of turtlesim_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<launch>
+	<param name="caughtStatus" value="False"/>
+	<node pkg="turtlesim" type="turtlesim_node" name="turtle" />
+	<node pkg="turtlesim_control" type="circles.py" name="circler" />
+	<node pkg="turtlesim_control" type="turtlespawn.py" name="spawner"/>
+	<node pkg="turtlesim_control" type="chase_limit_accel.py" name="chaser" />
+	
+	
+
+</launch>
+

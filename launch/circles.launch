@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<launch>
+	<node pkg="turtlesim_control" type="circles.py" name="circle" />
+	<node pkg="turtlesim" type="turtlesim_node" name="turtle"/>
+	
+
+</launch>
+
