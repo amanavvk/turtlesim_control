@@ -1,5 +1,5 @@
 # turtlesim_control
-This repository simulates the turtlesim package, subjecting them to diverse conditions, including scenarios with intermittent and noisy communication. Additionally, it incorporates a planning component enabling a slower follower robot to synchronize its movements with a faster leader robot. For further details, you can access the PDF report by following [this link]
+This repository simulates the turtlesim package, subjecting them to diverse conditions, including scenarios with intermittent and noisy communication. Additionally, it incorporates a planning component enabling a slower follower robot to synchronize its movements with a faster leader robot. For further details, you can access the PDF report by following [this link](https://github.com/amanavvk/turtlesim_control/blob/master/Assignment%20-%20Robotics%20Engineer_report_Aman_Vyas_updated.pdf)
 
 ## requirements:
 
