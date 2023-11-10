@@ -2,9 +2,9 @@
 <launch>
 	<param name="caughtStatus" value="False"/>
 	<node pkg="turtlesim" type="turtlesim_node" name="turtle" />
-	<node pkg="turtlesim_operations" type="circles.py" name="circler" />
-	<node pkg="turtlesim_operations" type="turtlespawn.py" name="spawner"/>
-	<node pkg="turtlesim_operations" type="chase_limit_accel_vel.py" name="chaser" />
+	<node pkg="turtlesim_control" type="circles.py" name="circler" />
+	<node pkg="turtlesim_control" type="turtlespawn.py" name="spawner"/>
+	<node pkg="turtlesim_control" type="chase_limit_accel_vel.py" name="chaser" />
 	
 	
 
